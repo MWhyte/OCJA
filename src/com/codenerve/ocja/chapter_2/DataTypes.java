@@ -30,19 +30,20 @@ public class DataTypes {
 
 
         int x;
+
         // compilation error. local variables must be initialised before use
         //System.out.println(x);
 
         // double's can contain D to signify double
         double a = 1D;
 
-
-        System.out.println("Operations That Cause Conversions");
         operationsThatCauseConversions();
     }
 
 
     private static void operationsThatCauseConversions() {
+        System.out.println("Operations That Cause Conversions");
+
         byte a = 10;
         byte b = 2;
         // a/b returns an int which must be cast

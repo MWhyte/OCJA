@@ -16,7 +16,7 @@ public class Blocks {
     public static void main(String [] args) {
 
 
-        // class first referenced cause static block to execute
+        // class first referenced causes static block to execute
         System.out.println(AClass.x);
 
         AClass aClass = new AClass();

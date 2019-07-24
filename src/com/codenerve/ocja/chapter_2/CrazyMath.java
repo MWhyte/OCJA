@@ -30,6 +30,5 @@ public class CrazyMath {
 
         System.out.println(dx + " " + dy);
         System.out.println(x + " " + y);
-
     }
 }

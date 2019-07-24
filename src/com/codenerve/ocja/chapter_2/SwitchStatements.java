@@ -6,8 +6,6 @@
 
 package com.codenerve.ocja.chapter_2;
 
-import java.util.Objects;
-
 /**
  * Created on 14/01/15.
  */

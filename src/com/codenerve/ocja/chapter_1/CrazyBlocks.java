@@ -37,7 +37,9 @@ class Manager extends Employee {
     static {
         i = 45;
         System.out.print(" Manager static ");
-    }{
+    }
+
+    {
         i = 30;
         System.out.print(" Manager "+i);
     }

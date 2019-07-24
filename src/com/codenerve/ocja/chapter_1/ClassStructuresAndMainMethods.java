@@ -13,11 +13,11 @@ public class ClassStructuresAndMainMethods {
 
     // final is optional
     // order final public void main(String [] args) { is valid
-    public final static void main(String [] args) {
+    public final static void main(String[] args) {
 
     }
 
-    // ... to declare and array is valid
+    // ... to declare a var args array is valid
     //public static void main(String... args) {
     //
     //}
@@ -32,12 +32,12 @@ public class ClassStructuresAndMainMethods {
 }
 
 // Cannot have two public classes in the same file
-/*public*/ class OtherClass{
+/*public*/ class OtherClass {
 
 }
 
 // cannot have private either since nothing could access it
-/*private*/ class AnotherClass{
+/*private*/ class AnotherClass {
 
 }
 

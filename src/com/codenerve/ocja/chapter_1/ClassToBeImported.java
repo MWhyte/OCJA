@@ -14,7 +14,7 @@ import java.lang.*;
 // other things on imports
 
 // cannot import classes from same file as a public class
-//import com.nigeeks.ocja.chapter_1.Blocks.AClass;
+// import com.codenerve.ocja.chapter_1.Blocks.AClass;
 
 public class ClassToBeImported {
 
